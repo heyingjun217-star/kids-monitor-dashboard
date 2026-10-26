@@ -1,0 +1,12 @@
+{
+  "week": "2026-10-26",
+  "revision": "rules-v4",
+  "status": "user_approved_limited_edition",
+  "source_preview_sha256": "964a0281e53dac6ae4fcfb3a00006aabaa6ecf828f32966f8241059b4fdb5e4f",
+  "html_sha256": "be811ee90aa64f5e77a974ae6672d61f342075aaf1e5ab7b07afb6729c0e25c6",
+  "dataset_sha256": "15b6bded627ee9a9a92793eb13c14c547f78378fa22fc92c094d297af4734066",
+  "approved_at": "2026-10-26T09:31:58.805518+00:00",
+  "quality_gate_passed": false,
+  "scope": "包含已标注的热度和上线日期缺项；排名为当前已获热度样本",
+  "url": "https://heyingjun217-star.github.io/kids-monitor-dashboard/reports/2026-10-26-rules-v4/"
+}
